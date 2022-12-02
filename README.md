@@ -1,0 +1,5 @@
+-👋 Hi, I’m @AbouBakr-Eljobile
+- 👀 I’m interested develpoers 
+- 🌱 I’m currently learning Backend C# API
+- 💞️ I’m looking to collaborate on tranning
+- 📫 How to reach me abubakereljobile@gmail.com
